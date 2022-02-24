@@ -3,3 +3,7 @@
   color: darkgreen;
   font-family: monospace;
 }
+
+body {
+  padding: 10%;
+}
